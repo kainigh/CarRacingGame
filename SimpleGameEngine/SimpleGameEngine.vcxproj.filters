@@ -66,9 +66,6 @@
     <ClCompile Include="MoveComponent.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Copies\Car Racing - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy\SimpleGameEngine\Input.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Window.h">
@@ -117,9 +114,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="MoveComponent.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Copies\Car Racing - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy\SimpleGameEngine\Input.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
